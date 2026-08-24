@@ -2,10 +2,6 @@
 
 An interactive **AI Workforce Analytics Dashboard** developed using **Tableau** to analyze employee productivity, burnout, job satisfaction, salary, remote work, education, and AI adoption.
 
-##  Dashboard Preview
-
-![AI Workforce Dashboard](Screenshots/AI_Workforce_Dashboard.png)
-
 ##  Project Objective
 
 The objective of this project is to analyze workforce-related data and identify patterns in:
@@ -117,4 +113,4 @@ Interested in **Data Analytics, Business Intelligence, Tableau, Power BI, SQL, a
 
 ## Project
 
-If you find this project useful, feel free to explore the dashboard and give the repository a .
+If you find this project useful, feel free to explore the dashboard and give the repository a ⭐.
