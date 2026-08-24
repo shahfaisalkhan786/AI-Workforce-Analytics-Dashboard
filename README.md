@@ -87,22 +87,6 @@ These filters allow users to interactively explore different segments of the wor
 
 The dashboard helps understand how factors such as productivity, burnout, AI adoption, remote work, education, and industry are related to the modern workforce.
 
-## Project Structure
-
-
-AI-Workforce-Analytics-Dashboard/
-│
-├── Dashboard/
-│   └── AI_Workforce_Dashboard.twbx
-│
-├── Screenshots/
-│   ├── AI_Workforce_Dashboard.png
-│   └── AI_Workforce_Dashboard_Analysis.png
-│
-├── Dataset/
-│   └── AI_Workforce_Dataset.csv
-│
-└── README.md
 
 
 ## Author
