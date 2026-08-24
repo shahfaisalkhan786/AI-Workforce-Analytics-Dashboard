@@ -6,7 +6,7 @@ An interactive **AI Workforce Analytics Dashboard** developed using **Tableau** 
 
 ![AI Workforce Dashboard](Screenshots/AI_Workforce_Dashboard.png)
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to analyze workforce-related data and identify patterns in:
 
@@ -20,7 +20,7 @@ The objective of this project is to analyze workforce-related data and identify 
 * Attrition risk
 * Job satisfaction by country
 
-## 📌 Key KPIs
+##  Key KPIs
 
 | KPI                      |    Value |
 | ------------------------ | -------: |
@@ -30,7 +30,7 @@ The objective of this project is to analyze workforce-related data and identify 
 | Average Employee Salary  | $140.73K |
 | AI Adoption Rate         |    59.5% |
 
-## 📈 Dashboard Visualizations
+##  Dashboard Visualizations
 
 ### Productivity vs Burnout
 
